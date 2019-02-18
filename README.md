@@ -3,7 +3,15 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 ## Paper ##
 
-- **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [Code] [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)]  
+- **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
+ 
+- **Overview of cail2018: legal judgment prediction competition**(2018), Haoxi Zhong et al. [[PDF](https://arxiv.org/pdf/1810.05851.pdf)]   [[Code](https://github.com/thunlp/CAIL)]  
+
+- **Few-shot charge prediction with discriminative legal attributes**(2018), Zikun Hu et al. [[PDF](http://aclweb.org/anthology/C18-1041)] [[Code](https://github.com/thunlp/attribute_charge)]  
+
+- **Interpretable rationale augmented charge prediction system**(2018), Xin Jiang et al. [[PDF](http://aclweb.org/anthology/C18-2032)]  
+
+- **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
 
 
 
