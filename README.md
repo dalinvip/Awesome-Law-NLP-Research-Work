@@ -3,6 +3,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 ## Paper ##
 
+- **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
+
 - **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
  
 - **Overview of cail2018: legal judgment prediction competition**(2018), Haoxi Zhong et al. [[PDF](https://arxiv.org/pdf/1810.05851.pdf)]   [[Code](https://github.com/thunlp/CAIL)]  
@@ -12,6 +14,12 @@ Summary of NLP related research work in the field of law in recent years, contai
 - **Interpretable rationale augmented charge prediction system**(2018), Xin Jiang et al. [[PDF](http://aclweb.org/anthology/C18-2032)]  
 
 - **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
+
+- **SECaps: A Sequence Enhanced Capsule Model for Charge Prediction**(2018), Congqing He et al. [[PDF](https://arxiv.org/pdf/1810.04465.pdf)]  
+
+- **A Markov Logic Networks Based Method to Predict Judicial Decisions of Divorce Cases**(2018), et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8513727)]  
+
+- **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
 
 
