@@ -21,7 +21,13 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
+- **法律与人工智能的法哲学思考——以大数据深度学习为考察重点**(2018),  吴旭阳. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%B3%95%E5%BE%8B%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E6%B3%95%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83&pks=&pc=&st=year&stp=&ds=&pcl=)]  
 
+- **人工智能介入司法领域路径分析**(2018), 潘庸鲁. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BB%8B%E5%85%A5%E5%8F%B8%E6%B3%95%E9%A2%86%E5%9F%9F%E8%B7%AF%E5%BE%84%E5%88%86%E6%9E%90&pks=&pc=&st=year&stp=&ds=&pcl=)]  
+
+- **智能辅助:AI下民商事办案系统的建构——以裁判思维与要件标注为切入点**(2018), 蔡一博. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%EF%BC%9AAI%E4%B8%8B%E6%B0%91%E5%95%86%E4%BA%8B%E5%8A%9E%E6%A1%88%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%BB%BA%E6%9E%84&pks=&pc=&st=year&stp=&ds=&pcl=)]  
+
+- **我国司法人工智能建设的问题与应对**(2018), 程凡卿. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%88%91%E5%9B%BD%E5%8F%B8%E6%B3%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BB%BA%E8%AE%BE%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E5%BA%94%E5%AF%B9&pks=&pc=&st=year&stp=&ds=&pcl=)]  
 
 
 ## Competition ##
