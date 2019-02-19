@@ -1,6 +1,11 @@
 # Awesome-Law-NLP-Research-Work
 Summary of NLP related research work in the field of law in recent years, contains paper, competition and some excellent projects.
 
+
+**`It will be updated gradually.`**
+
+----------
+
 ## Paper ##
 
 - **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
@@ -34,10 +39,13 @@ Summary of NLP related research work in the field of law in recent years, contai
 - **我国司法人工智能建设的问题与应对**(2018), 程凡卿. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%88%91%E5%9B%BD%E5%8F%B8%E6%B3%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BB%BA%E8%AE%BE%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E5%BA%94%E5%AF%B9&pks=&pc=&st=year&stp=&ds=&pcl=)]  
 
 
+----------
 ## Competition ##
 
 -  **"中国法研杯" ---- 司法人工智能挑战赛(CAIL2018)**，2018年，举办单位（中国司法大数据研究院、中国中文信息学会、中电科系统团委联合清华大学、北京大学、中国科学院软件研究所）[[Site](http://cail.cipsc.org.cn/)] [[Blog-1](https://bamtercelboo.github.io/2018/10/17/AI_Law/)] [[Blog-2](http://www.52nlp.cn/%e5%a6%82%e4%bd%95%e7%94%a8%e6%b7%b1%e5%ba%a6%e5%ad%a6%e4%b9%a0%e5%81%9a%e5%a5%bd%e9%95%bf%e6%96%87%e6%9c%ac%e5%88%86%e7%b1%bb%e4%b8%8e%e6%b3%95%e5%be%8b%e6%96%87%e4%b9%a6%e6%99%ba%e8%83%bd%e5%8c%96)]  
 
+
+----------
 ## Project ##
 update later.
 
