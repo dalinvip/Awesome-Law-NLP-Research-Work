@@ -62,6 +62,9 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **A Methodology for a Criminal Law and Procedure Ontology for Legal Question Answering**(2018), Biralatei Fawei et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-04284-4_14)]  
 
+- **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2018), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
+
+
 
 ----------
 ## Competition ##
