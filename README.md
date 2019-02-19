@@ -53,7 +53,7 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 ----------
 ## Project ##
-- **中国裁判文书网爬虫(Chinese judge document web crawler)**, [[Github Site](https://github.com/sixs/wenshu_spider)]  
+update later.
 
 
 
