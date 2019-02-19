@@ -18,9 +18,13 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 ## Paper ##
 #### &nbsp;&nbsp;&nbsp;2017 ####
-- **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
 
 - **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
+
+- **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
+
+- **Exploring the use of text classification in the legal domain**(2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
+
 
 #### &nbsp;&nbsp;&nbsp;2018 ####
 
