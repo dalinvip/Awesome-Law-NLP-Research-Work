@@ -56,6 +56,10 @@ Summary of NLP related research work in the field of law in recent years, contai
 update later.
 
 
+## Online System ##
+
+- **觅律搜索**, 北京幂律智能科技有限责任公司， ---> [[觅律so.legal](https://solegal.cn/)]  
+
 
 
 ## Question ##
