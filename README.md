@@ -23,7 +23,7 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
-- **人工智能与法律结合的现状及发展趋**(2018),  黄俏娟等. [[PDF](http://www.jsjkx.com/jsjkx/ch/reader/view_abstract.aspx?file_no=20181201&flag=1)]  
+- **人工智能与法律结合的现状及发展趋势**(2018),  黄俏娟等. [[PDF](http://www.jsjkx.com/jsjkx/ch/reader/view_abstract.aspx?file_no=20181201&flag=1)]  
 
 - **法律与人工智能的法哲学思考——以大数据深度学习为考察重点**(2018),  吴旭阳. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%B3%95%E5%BE%8B%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E6%B3%95%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83&pks=&pc=&st=year&stp=&ds=&pcl=)]  
 
