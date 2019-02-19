@@ -1,10 +1,20 @@
 # Awesome-Law-NLP-Research-Work
-Summary of NLP related research work in the field of law in recent years, contains paper, competition and some excellent projects.
+Summary of NLP related research work in the field of law in recent years, contains paper, competition and some excellent projects, online system.
 
 
 **`It will be updated gradually.`**
 
 ----------
+## Outline ##
+- Outline
+	- [Paper](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#paper)
+	- [Competition](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#competition)
+	- [Project](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#project)
+	- [Online System](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#online-system)
+	- [Question](https://github.com/bamtercelboo/Awesome-Law-NLP-Research-Work#question)  
+
+----------
+
 
 ## Paper ##
 
