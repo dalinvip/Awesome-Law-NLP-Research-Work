@@ -17,11 +17,13 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 
 ## Paper ##
-
+#### &nbsp;&nbsp;&nbsp;2017 ####
 - **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
 
 - **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
- 
+
+#### &nbsp;&nbsp;&nbsp;2018 ####
+
 - **Overview of cail2018: legal judgment prediction competition**(2018), Haoxi Zhong et al. [[PDF](https://arxiv.org/pdf/1810.05851.pdf)]   [[Code](https://github.com/thunlp/CAIL)]  
 
 - **CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction**(2018), Chaojun Xiao et al. [[PDF](https://arxiv.org/pdf/1807.02478.pdf)]  
@@ -34,15 +36,13 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Legal judgment prediction via topological learning**(2018), Haoxi Zhong et al. [[PDF](http://www.aclweb.org/anthology/D18-1390)] [[Code](https://github.com/thunlp/TopJudge)]  
 
-- **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
-
 - **SECaps: A Sequence Enhanced Capsule Model for Charge Prediction**(2018), Congqing He et al. [[PDF](https://arxiv.org/pdf/1810.04465.pdf)]  
 
-- **A Markov Logic Networks Based Method to Predict Judicial Decisions of Divorce Cases**(2018), et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8513727)]  
+- **A Markov Logic Networks Based Method to Predict Judicial Decisions of Divorce Cases**(2018), Jiajing Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8513727)]  
 
 - **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
-- **NLP Based Latent Semantic Analysis for Legal Text Summarization**(2018), Kaiz Merchant et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8554831)]  
+- **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
 
 - **人工智能与法律结合的现状及发展趋势(State-of-the-art and Development Trend of Artificial Intelligence Combined with Law)**(2018),  黄俏娟等. [[PDF](http://www.jsjkx.com/jsjkx/ch/reader/view_abstract.aspx?file_no=20181201&flag=1)]  
 
@@ -53,6 +53,10 @@ Summary of NLP related research work in the field of law in recent years, contai
 - **智能辅助:AI下民商事办案系统的建构——以裁判思维与要件标注为切入点(AI Assistance: How to Handle Civil and Commercial Cases)**(2018), 蔡一博. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%EF%BC%9AAI%E4%B8%8B%E6%B0%91%E5%95%86%E4%BA%8B%E5%8A%9E%E6%A1%88%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%BB%BA%E6%9E%84&pks=&pc=&st=year&stp=&ds=&pcl=)]  
 
 - **我国司法人工智能建设的问题与应对(Judicial AI in China: Issues and Solutions)**(2018), 程凡卿. [[PDF](http://dffx.cbpt.cnki.net/WKD/WebPublication/advSearchPaperList.aspx?ys=2018&ist=&ns=&us=&ps=&pt=%E6%88%91%E5%9B%BD%E5%8F%B8%E6%B3%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BB%BA%E8%AE%BE%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E5%BA%94%E5%AF%B9&pks=&pc=&st=year&stp=&ds=&pcl=)]  
+
+- **NLP Based Latent Semantic Analysis for Legal Text Summarization**(2018), Kaiz Merchant et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8554831)]  
+
+- **A Methodology for a Criminal Law and Procedure Ontology for Legal Question Answering**(2018), Biralatei Fawei et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-04284-4_14)]  
 
 
 ----------
