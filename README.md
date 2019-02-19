@@ -21,9 +21,19 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Learning to predict charges for criminal cases with legal basis**(2017), Bingfeng Luo et al. [[PDF](http://aclweb.org/anthology/D17-1289)]  [[Blog](https://bamtercelboo.github.io/2018/07/19/Learning-to-Predict-Charges-for-Criminal-Cases-with-Legal-Basis/)] 
 
+- **Multi-Task CNN for Classification of Chinese Legal Questions**(2017), Guangyi Xiao et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8119134)]  
+
 - **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
 
 - **Exploring the use of text classification in the legal domain**(2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
+
+- **Predicting the Law Area and Decisions of French Supreme Court Cases**(2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1708.01681.pdf)]
+
+- **Text summarization from legal documents: a survey**(2017), Ambedkar Kanapala et al. [[PDF](https://link.springer.com/article/10.1007/s10462-017-9566-2)]  
+
+- **An Ontological Chinese Legal Consultation System**(2017), Ni Zhang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8016577)]  
+
+- **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles**(2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
 
 
 #### &nbsp;&nbsp;&nbsp;2018 ####
@@ -47,6 +57,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 - **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2018), Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)]  
 
 - **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
+
+- **Law text classification using semi-supervised convolutional neural networks**(2018), Penghua Li et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8407150)]  
 
 - **人工智能与法律结合的现状及发展趋势(State-of-the-art and Development Trend of Artificial Intelligence Combined with Law)**(2018),  黄俏娟等. [[PDF](http://www.jsjkx.com/jsjkx/ch/reader/view_abstract.aspx?file_no=20181201&flag=1)]  
 
