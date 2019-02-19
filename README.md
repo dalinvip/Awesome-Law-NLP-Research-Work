@@ -22,6 +22,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions**(2018), Hai Ye et al. [[PDF](https://arxiv.org/pdf/1802.08504.pdf)] [[Code](https://github.com/oceanypt/Court-View-Gen)]  
 
+- **Legal judgment prediction via topological learning**(2018), Haoxi Zhong et al. [[PDF](http://www.aclweb.org/anthology/D18-1390)] [[Code](https://github.com/thunlp/TopJudge)]  
+
 - **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
 
 - **SECaps: A Sequence Enhanced Capsule Model for Charge Prediction**(2018), Congqing He et al. [[PDF](https://arxiv.org/pdf/1810.04465.pdf)]  
@@ -49,7 +51,9 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 ----------
 ## Project ##
-update later.
+- **中国裁判文书网爬虫(Chinese judge document web crawler)**, [[Github Site](https://github.com/sixs/wenshu_spider)]  
+
+
 
 
 ## Question ##
