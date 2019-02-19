@@ -20,6 +20,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Interpretable rationale augmented charge prediction system**(2018), Xin Jiang et al. [[PDF](http://aclweb.org/anthology/C18-2032)]  
 
+- **Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions**(2018), Hai Ye et al. [[PDF](https://arxiv.org/pdf/1802.08504.pdf)] [[Code](https://github.com/oceanypt/Court-View-Gen)]  
+
 - **Automatic judgment prediction via legal reading comprehension**(2018), Shangbang Long et al. [[PDF](https://arxiv.org/pdf/1809.06537.pdf)]  
 
 - **SECaps: A Sequence Enhanced Capsule Model for Charge Prediction**(2018), Congqing He et al. [[PDF](https://arxiv.org/pdf/1810.04465.pdf)]  
