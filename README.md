@@ -23,6 +23,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Multi-Task CNN for Classification of Chinese Legal Questions**(2017), Guangyi Xiao et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8119134)]  
 
+- **An Ontological Chinese Legal Consultation System**(2017), Ni Zhang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8016577)]  
+
 - **Legal NLP Introduction**(2017), Adeline Nazarenko et al. [[PDF](http://www.atala.org/sites/default/files/1-%20TAL-58-2-legal%20NLP-introduction.pdf)]  
 
 - **Exploring the use of text classification in the legal domain**(2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
@@ -30,8 +32,6 @@ Summary of NLP related research work in the field of law in recent years, contai
 - **Predicting the Law Area and Decisions of French Supreme Court Cases**(2017), Octavia-Maria Sulea et al. [[PDF](https://arxiv.org/pdf/1708.01681.pdf)]
 
 - **Text summarization from legal documents: a survey**(2017), Ambedkar Kanapala et al. [[PDF](https://link.springer.com/article/10.1007/s10462-017-9566-2)]  
-
-- **An Ontological Chinese Legal Consultation System**(2017), Ni Zhang et al. [[PDF](https://ieeexplore.ieee.org/abstract/document/8016577)]  
 
 - **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles**(2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
 
