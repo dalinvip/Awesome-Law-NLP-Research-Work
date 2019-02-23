@@ -95,6 +95,8 @@ update later.
 
 - **觅律搜索**, 北京幂律智能科技有限责任公司， ---> [[觅律so.legal](https://solegal.cn/)]  
 
+- **度小法---法律智库**, 百度， ---> [[度小法]](https://duxiaofa.baidu.com/)]  
+
 
 
 ## Question ##
