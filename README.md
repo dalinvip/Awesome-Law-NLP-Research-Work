@@ -81,6 +81,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **基于混合深度神经网络模型的司法文书智能化处理(Judicial document intellectual processing using hybrid deep neural networks)**(2019),   王文广等. [[PDF](http://kns.cnki.net/kcms/detail/11.2223.n.20190312.1054.004.html)]  
 
+- **基于序列到序列模型的法律问题关键词抽取(Keyphrase extraction for legal questions based on a sequence to sequence model)**(2019),   曾道建等. [[PDF](http://jst.tsinghuajournals.com/CN/Y2019/V59/I4/256)]  
+
 ----------
 ## Competition ##
 
