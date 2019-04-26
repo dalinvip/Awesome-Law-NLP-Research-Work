@@ -76,7 +76,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2018), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
 
-
+#### &nbsp;&nbsp;&nbsp;2019 ####
+- **基于深度学习的判决结果倾向性分析(Orientation analysis of judgment results based on deep learning)**(2019),  王业沛等. [[PDF](http://www.arocmag.com/article/01-2019-02-004.html)]  
 
 ----------
 ## Competition ##
