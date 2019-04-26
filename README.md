@@ -79,7 +79,7 @@ Summary of NLP related research work in the field of law in recent years, contai
 #### &nbsp;&nbsp;&nbsp;2019 ####
 - **基于深度学习的判决结果倾向性分析(Orientation analysis of judgment results based on deep learning)**(2019),  王业沛等. [[PDF](http://www.arocmag.com/article/01-2019-02-004.html)]  
 
-- **基于混合深度神经网络模型的司法文书智能化处理(基于混合深度神经网络模型的司法文书智能化处理)**(2019),   王文广等. [[PDF](http://kns.cnki.net/kcms/detail/11.2223.n.20190312.1054.004.html)]  
+- **基于混合深度神经网络模型的司法文书智能化处理(Judicial document intellectual processing using hybrid deep neural networks)**(2019),   王文广等. [[PDF](http://kns.cnki.net/kcms/detail/11.2223.n.20190312.1054.004.html)]  
 
 ----------
 ## Competition ##
