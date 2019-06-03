@@ -80,6 +80,9 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Deep learning in law: early adaptation and legal word embeddings trained on large corpora**(2018), Ilias Chalkidis et al. [[PDF](https://link.springer.com/article/10.1007/s10506-018-9238-9)]  
 
+- **Using OpenWordnet-PT for Question Answering on Legal Domain**(2018), Pedro Delfino et al. [[PDF](http://compling.hss.ntu.edu.sg/events/2018-gwc/pdfs/GWC2018_paper_59.pdf)]  
+
+
 #### &nbsp;&nbsp;&nbsp;2019 ####
 - **Legal Judgment Prediction via Multi-Perspective Bi-Feedback Network**(2019), Yang Wenmian et al. [[PDF](https://arxiv.org/pdf/1905.03969.pdf)]  
 
