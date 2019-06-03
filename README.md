@@ -37,6 +37,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Applying Deep Neural Network to Retrieve Relevant Civil Law Articles**(2017), Anh Hang Nga Tran et al. [[PDF](https://aclanthology.info/papers/R17-2007/r17-2007)]  
 
+- **Legal Question Answering using Ranking SVM and Deep Convolutional Neural Network**(2017), Phong-Khac Do et al. [[PDF](https://arxiv.org/abs/1703.05320)]  
+
 
 #### &nbsp;&nbsp;&nbsp;2018 ####
 
