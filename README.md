@@ -92,6 +92,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **基于序列到序列模型的法律问题关键词抽取(Keyphrase extraction for legal questions based on a sequence to sequence model)**(2019),   曾道建等. [[PDF](http://jst.tsinghuajournals.com/CN/Y2019/V59/I4/256)]  
 
+- **Neural Legal Judgment Prediction in English**(2019), Ilias Chalkidis et al. [[PDF](https://arxiv.org/pdf/1906.02059.pdf)]  
+
 ----------
 ## Competition ##
 
