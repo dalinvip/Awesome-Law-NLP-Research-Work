@@ -108,6 +108,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Charge-Based Prison Term Prediction with Deep Gating Network**(2019),  Huajie Chen et al. [[PDF](https://arxiv.org/abs/1908.11521)] 
 
+- **Case Facts Analysis Method Based on Deep Learning**(2019),  Zihuan Xu et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30952-7_11)] 
+
 ----------
 ## Competition ##
 
