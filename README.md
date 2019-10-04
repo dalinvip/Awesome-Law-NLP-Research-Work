@@ -112,6 +112,10 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Hierarchical Matching Network for Crime Classification**(2019),  Pengfei Wang et al. [[PDF](https://dl.acm.org/citation.cfm?id=3331223)] 
 
+- **A Few-Shot Transfer Learning Approach Using Text-label Embedding with Legal Attributes for Law Article Prediction**(2019),  Yuh-Shyan Chen et al. [[PDF](https://easychair.org/publications/preprint_download/Dbr3)] 
+
+
+
 ----------
 ## Competition ##
 
