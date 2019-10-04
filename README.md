@@ -102,6 +102,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Large-Scale Multi-Label Text Classification on EU Legislation**(2019), Ilias Chalkidis et al. [[PDF](https://arxiv.org/abs/1906.02192)] 
 
+- **Extreme Multi-Label Legal Text Classification: A Case Study in EU Legislation**(2019), Ilias Chalkidis et al. [[PDF](https://www.aclweb.org/anthology/W19-2209/)] 
+
 ----------
 ## Competition ##
 
