@@ -100,6 +100,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Charge Prediction with Legal Attention**(2019), Qiaoben Bao et al. [[PDF](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_35)] 
 
+- **Large-Scale Multi-Label Text Classification on EU Legislation**(2019), Ilias Chalkidis et al. [[PDF](https://arxiv.org/abs/1906.02192)] 
+
 ----------
 ## Competition ##
 
