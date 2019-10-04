@@ -114,6 +114,10 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **A Few-Shot Transfer Learning Approach Using Text-label Embedding with Legal Attributes for Law Article Prediction**(2019),  Yuh-Shyan Chen et al. [[PDF](https://easychair.org/publications/preprint_download/Dbr3)] 
 
+- **A Recurrent Attention Network for Judgment Prediction**(2019),  Ze Yang et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_21)] 
+
+- **Learning to Predict Charges for Judgment with Legal Graph**(2019),  Si Chen et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_20)] 
+
 
 
 ----------
