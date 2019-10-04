@@ -118,7 +118,7 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Learning to Predict Charges for Judgment with Legal Graph**(2019),  Si Chen et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_20)] 
 
-
+- **Research and Design on Cognitive Computing Framework for Predicting Judicial Decisions**(2019),  Jiajing Li et al. [[PDF](https://link.springer.com/article/10.1007/s11265-018-1429-9)] 
 
 ----------
 ## Competition ##
