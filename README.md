@@ -85,24 +85,16 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 #### &nbsp;&nbsp;&nbsp;2019 ####
 - **Legal Judgment Prediction via Multi-Perspective Bi-Feedback Network**(2019), Yang Wenmian et al. [[PDF](https://arxiv.org/pdf/1905.03969.pdf)]  
-
 - **基于深度学习的判决结果倾向性分析(Orientation analysis of judgment results based on deep learning)**(2019),  王业沛等. [[PDF](http://www.arocmag.com/article/01-2019-02-004.html)]  
-
 - **融入罪名关键词的法律判决预测多任务学习模型(Multi-task learning model for legal judgment predictions with charge keywords)**(2019),   刘宗林等. [[PDF](http://jst.tsinghuajournals.com/CN/Y2019/V59/I7/497)]  
-
 - **基于混合深度神经网络模型的司法文书智能化处理(Judicial document intellectual processing using hybrid deep neural networks)**(2019),   王文广等. [[PDF](http://jst.tsinghuajournals.com/CN/Y2019/V59/I7/505)]  
-
 - **基于序列到序列模型的法律问题关键词抽取(Keyphrase extraction for legal questions based on a sequence to sequence model)**(2019),   曾道建等. [[PDF](http://jst.tsinghuajournals.com/CN/Y2019/V59/I4/256)]  
-
 - **Neural Legal Judgment Prediction in English**(2019), Ilias Chalkidis et al. [[PDF](https://arxiv.org/pdf/1906.02059.pdf)]  
-
 - **An External Knowledge Enhanced Multi-label Charge Prediction Approach with Label Number Learning**(2019), Duan Wei, Li Lin et al. [[PDF](https://arxiv.org/abs/1907.02205)] 
-
 - **Charge Prediction with Legal Attention**(2019), Qiaoben Bao et al. [[PDF](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_35)] 
-
 - **Large-Scale Multi-Label Text Classification on EU Legislation**(2019), Ilias Chalkidis et al. [[PDF](https://arxiv.org/abs/1906.02192)] 
-
 - **Extreme Multi-Label Legal Text Classification: A Case Study in EU Legislation**(2019), Ilias Chalkidis et al. [[PDF](https://www.aclweb.org/anthology/W19-2209/)] 
+- **Using Case Facts to Predict Penalty with Deep Learning**(2019),  Yu Li et al. [[PDF](https://link.springer.com/chapter/10.1007/978-981-15-0121-0_47)] 
 
 ----------
 ## Competition ##
