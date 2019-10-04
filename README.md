@@ -98,6 +98,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **An External Knowledge Enhanced Multi-label Charge Prediction Approach with Label Number Learning**(2019), Duan Wei, Li Lin et al. [[PDF](https://arxiv.org/abs/1907.02205)] 
 
+- **Charge Prediction with Legal Attention**(2019), Qiaoben Bao et al. [[PDF](https://link.springer.com/chapter/10.1007%2F978-3-030-32233-5_35)] 
+
 ----------
 ## Competition ##
 
