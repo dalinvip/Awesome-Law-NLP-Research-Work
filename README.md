@@ -110,6 +110,8 @@ Summary of NLP related research work in the field of law in recent years, contai
 
 - **Case Facts Analysis Method Based on Deep Learning**(2019),  Zihuan Xu et al. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-30952-7_11)] 
 
+- **Hierarchical Matching Network for Crime Classification**(2019),  Pengfei Wang et al. [[PDF](https://dl.acm.org/citation.cfm?id=3331223)] 
+
 ----------
 ## Competition ##
 
