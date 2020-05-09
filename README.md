@@ -27,7 +27,7 @@ Summary of NLP related research work in the field of law in recent years, contai
 6. *Sulea O M, Zampieri M, Malmasi S, et al*. **Exploring the use of text classification in the legal domain**[J]. arXiv preprint arXiv:1710.09306, 2017. [[PDF](https://arxiv.org/pdf/1710.09306.pdf)]  
 7. *Sulea O M, Zampieri M, Vela M, et al*. **Predicting the law area and decisions of french supreme court cases**[J]. arXiv preprint arXiv:1708.01681, 2017. [[PDF](https://arxiv.org/pdf/1708.01681.pdf)]
 8. *Kanapala A, Pal S, Pamula R*. **Text summarization from legal documents: a survey**[J]. Artificial Intelligence Review, 2019, 51(3): 371-402. [[PDF](https://link.springer.com/article/10.1007/s10462-017-9566-2)]  
-9. *Hang N T A*. **Applying deep neural network to retrieve relevant civil law articles**[C]//Proceedings of the Student Research Workshop associated with RANLP. 2017: 46-48. [[PDF]([https://acl-bg.org/proceedings/2017/RANLPStud%202017/pdf/RANLPStud007.pdf](https://acl-bg.org/proceedings/2017/RANLPStud 2017/pdf/RANLPStud007.pdf))]  
+9. *Hang N T A*. **Applying deep neural network to retrieve relevant civil law articles**[C]//Proceedings of the Student Research Workshop associated with RANLP. 2017: 46-48. [[PDF](https://acl-bg.org/proceedings/2017/RANLPStud 2017/pdf/RANLPStud007.pdf)]  
 10. *Do P K, Nguyen H T, Tran C X, et al*. **Legal question answering using ranking SVM and deep convolutional neural network**[J]. arXiv preprint arXiv:1703.05320, 2017. [[PDF](https://arxiv.org/abs/1703.05320)]  
 
 
