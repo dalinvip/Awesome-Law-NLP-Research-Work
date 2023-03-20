@@ -157,10 +157,5 @@ Summary of NLP related research work in the field of law in recent years, contai
 -  **包小黑法律咨询**, 杭州实在智能科技有限公司， ---> [[包小黑法律咨询](https://110.ai-indeed.com/)] 
 
 
-## Question ##
-
-- if you have any question, you can open a issue or email **bamtercelboo@{gmail.com, 163.com**}.
-
-- if you have any good suggestions, you can PR or email me.  
 
 
